@@ -84,8 +84,7 @@ p.lead {
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-size: 1.15rem;
-  font-weight: 400;
+  font-weight: 300;
   text-transform: capitalize;
 }
 
